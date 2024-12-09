@@ -6,7 +6,7 @@ A simple and user-friendly Weather Report App that provides real-time weather up
 
 Check out the **Live Demo** of the Weather Report App:
 
-[Live Demo]([https://ajeet-kumar-07.github.io/weather-report-app/](https://ajeet-kumar-07.github.io/Weather-Report/))
+[Live Demo](https://ajeet-kumar-07.github.io/Weather-Report/)
 
 
 ## Features 🚀
